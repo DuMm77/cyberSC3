@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>كيفية اختيار كلمة مرور قوية - مركز الأمن السيبراني</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="nav-container">
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="password-security.html">كلمة المرور</a></li>
+                <li><a href="phishing.html">التصيد الإلكتروني</a></li>
+                <li><a href="cyber-threats.html">التهديدات</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <section class="hero">
+        <h1>كيفية اختيار كلمة مرور قوية</h1>
+        <p>دليلك الشامل لإنشاء وإدارة كلمات المرور الآمنة</p>
+    </section>
+
+    <section class="content-section">
+        <div class="article-content">
+            <div class="info-card">
+                <h2><i class="fas fa-shield-alt"></i> المبادئ الأساسية لكلمة المرور القوية</h2>
+                <ul>
+                    <li><strong>الطول:</strong> استخدام 12 حرفاً على الأقل لزيادة قوة كلمة المرور</li>
+                    <li><strong>التنوع:</strong> دمج الأحرف الكبيرة والصغيرة والأرقام والرموز الخاصة</li>
+                    <li><strong>الفرادة:</strong> استخدام كلمة مرور مختلفة لكل حساب</li>
+                    <li><strong>التجنب:</strong> عدم استخدام معلومات شخصية يمكن تخمينها</li>
+                </ul>
+            </div>
+
+            <div class="info-card">
+                <h2><i class="fas fa-lightbulb"></i> نصائح لإنشاء كلمة مرور قوية</h2>
+                <ol>
+                    <li>استخدم جملة سهلة التذكر وحولها إلى كلمة مرور
+                        <br>مثال: "أحب_القراءة_كل_يوم!" → "7b_8ra2a_kl_ym!"</li>
+                    <li>اجمع بين كلمتين عشوائيتين مع أرقام ورموز
+                        <br>مثال: قطة@كتاب123</li>
+                    <li>استبدل الحروف بأرقام ورموز متشابهة
+                        <br>مثال: a → @, i → 1, o → 0</li>
+                </ol>
+            </div>
+
+            <div class="info-card">
+                <h2><i class="fas fa-exclamation-triangle"></i> ما يجب تجنبه</h2>
+                <ul class="danger-list">
+                    <li>كلمات المرور الشائعة مثل "123456" أو "password"</li>
+                    <li>معلومات شخصية مثل تاريخ الميلاد أو اسم الحيوان الأليف</li>
+                    <li>استخدام نفس كلمة المرور لحسابات متعددة</li>
+                    <li>كتابة كلمات المرور في مكان يمكن للآخرين رؤيته</li>
+                </ul>
+            </div>
+
+            <div class="info-card">
+                <h2><i class="fas fa-cogs"></i> إدارة كلمات المرور</h2>
+                <div class="tips-grid">
+                    <div class="tip-item">
+                        <h3>استخدام مدير كلمات المرور</h3>
+                        <p>برامج آمنة لتخزين وإدارة كلمات المرور مثل LastPass أو 1Password</p>
+                    </div>
+                    <div class="tip-item">
+                        <h3>التحقق بخطوتين</h3>
+                        <p>تفعيل المصادقة الثنائية لحماية إضافية للحسابات المهمة</p>
+                    </div>
+                    <div class="tip-item">
+                        <h3>التحديث الدوري</h3>
+                        <p>تغيير كلمات المرور كل 3-6 أشهر وعند اكتشاف أي اختراق</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>جميع الحقوق محفوظة © 2024 - مركز الأمن السيبراني</p>
+    </footer>
+</body>
+</html>
